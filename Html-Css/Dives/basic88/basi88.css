@@ -1,0 +1,57 @@
+div#headsection {
+    background-color: black;
+    overflow: auto;
+}
+header {
+    width: 1000px;
+    margin: 0 auto;
+    color: white;
+}
+div#basic88 {
+    float: left;
+    width: 250px;
+    margin: 0px;
+}
+nav {
+    width: 600px;
+    float: right;
+    background-color: grey;
+    margin: 30px;
+}
+nav ul li {
+    display: inline;
+    margin-right: 55px;
+}
+div#bigImage {
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+#bigImage img {
+    width: 1000px;
+    height: 400px;
+}
+div#sectionImage {
+    width: 1000px;
+    margin: 0 auto;
+    overflow: auto;
+}
+.quarterDiv {
+    width: 323px;
+    float: left;
+    margin-right: 10px;
+}
+figure {
+    border: 1px solid;
+    width: 310px;
+    margin-left: 0px;
+}
+figure img {
+    width: 300px;
+    padding: 5px;
+    margin-left: 0px;
+}
+figcaption a {
+    float: right;
+    color: red;
+}
