@@ -55,3 +55,23 @@ figcaption a {
     float: right;
     color: red;
 }
+div#figDiv {
+    width: 1000px;
+    margin: 0 auto;
+    overflow: auto;
+    margin-top: 10px;
+}
+#figDiv figcaption {
+    width: 450px;
+    float: left;
+}
+#figDiv figure {
+    border: 1px solid;
+    width: 460px;
+    float: right;
+}
+figure img {
+    width: 450px;
+    padding: 5px;
+    margin-left: 0px;
+}
