@@ -18,7 +18,7 @@ nav {
     background-color: grey;
     margin: 30px;
 }
-nav ul li {
+header nav ul li {
     display: inline;
     margin-right: 55px;
 }
@@ -74,4 +74,38 @@ figure img {
     width: 450px;
     padding: 5px;
     margin-left: 0px;
+}
+.row3 {
+    background-color: gray;
+    overflow: auto;
+}
+.secheadRow3 {
+    width: 1000px;
+    margin: 0 auto;
+}
+section.quarterRow3 {
+    width: 225px;
+    float: left;
+    margin-right: 25px;
+}
+.quarterRow3 h3 {
+    margin-left: 13px;
+    padding: 0;
+    margin-bottom: 0;
+}
+.quarterRow3 nav {
+    width: 225px;
+}
+.quarterRow3 nav ul {
+    margin-top: 0px;
+}
+.quarterRow3 nav ul li {
+    list-style-type: none;
+    line-height: 2em;
+    color: orange;
+    border-bottom: 1px solid;
+}
+.quarterRow3 nav ul li a {
+    text-decoration: none;
+    color: orange;
 }
