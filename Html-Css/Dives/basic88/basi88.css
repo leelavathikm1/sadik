@@ -65,13 +65,18 @@ div#figDiv {
     width: 450px;
     float: left;
 }
+#figDiv figure img {
+    width: 450px;
+    padding: 5px;
+    margin-left: 0px;
+}
 #figDiv figure {
     border: 1px solid;
     width: 460px;
     float: right;
 }
 figure img {
-    width: 450px;
+    width: 300px;
     padding: 5px;
     margin-left: 0px;
 }
